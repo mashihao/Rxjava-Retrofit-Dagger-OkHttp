@@ -1,0 +1,734 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\IDE\Android\AndroidStudio\Document\MSH\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="D:\IDE\Android\AndroidStudio\Document\MSH\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.0.1_fc67934b7cb9a166a471ac5be0cdf091822d62ae\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\IDE\Android\AndroidStudio\Document\MSH\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="D:\IDE\Android\AndroidStudio\Document\MSH\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.0.1_e51d2fa4e3c2003b1e3c24f58240ea35ac90e116\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\IDE\Android\AndroidStudio\Document\MSH\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="D:\IDE\Android\AndroidStudio\Document\MSH\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.0.1_6fec82f2f92b63a96a78fef8d9ad30ff1e2526bb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\IDE\Android\AndroidStudio\Document\MSH\app\build\intermediates\exploded-aar\com.daasuu\BubbleLayout\1.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="13d1746b726c099df925c9b7a25dc687034e677d">
+        <dex dex="D:\IDE\Android\AndroidStudio\Document\MSH\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.daasuu-BubbleLayout-1.1.1_d135b15651c5938fb3a8189fbd5e8388171c7dd4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MSH\.gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife-annotations\8.4.0\ea392375cf9ff59234a82e7928a204215ccc98cd\butterknife-annotations-8.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="ea392375cf9ff59234a82e7928a204215ccc98cd">
+        <dex dex="C:\Users\MSH\Desktop\PickLon\app\client\app\build\intermediates\transforms\dex\debug\folders\1000\10\butterknife-annotations-8.4.0_5e31bd46d87e0daaf7b1ba87ab32989eb783b7fb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MSH\Desktop\PickLon\app\client\app\build\intermediates\exploded-aar\com.jakewharton\butterknife\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="a07818a1ecabdb149998823429cce555af4b9cba">
+        <dex dex="C:\Users\MSH\Desktop\PickLon\app\client\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.jakewharton-butterknife-8.4.0_9941cf7f92a75a1cec9643e4cd2b3d9dfd255dfb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MSH\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\logging-interceptor\3.4.1\381fc1096ba65040d8e80ea43b2e1d9bad02345e\logging-interceptor-3.4.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="381fc1096ba65040d8e80ea43b2e1d9bad02345e">
+        <dex dex="C:\Users\MSH\Desktop\PickLon\app\client\app\build\intermediates\transforms\dex\debug\folders\1000\10\logging-interceptor-3.4.1_b70287bd8428083e4699ce7ccc18cbbba440f667\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\IDE\Android\AndroidStudio\Document\MSH\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\10.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="75dbc3537bc912d077b3db2f5ac72d5b43644b2c">
+        <dex dex="D:\IDE\Android\AndroidStudio\Document\MSH\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-10.0.0_c4d8cc34d858172952c8110b19afce12529bf9c1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MSH\.gradle\caches\modules-2\files-2.1\javax.inject\javax.inject\1\6975da39a7040257bd51d21a231b76c915872d38\javax.inject-1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="C:\Users\MSH\Desktop\PickLon\app\client\app\build\intermediates\transforms\dex\debug\folders\1000\10\javax.inject-1_8ed0248ab47c94c9b0d2622b4ca5031cdcf22f37\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\IDE\Android\AndroidStudio\Document\MSH\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="D:\IDE\Android\AndroidStudio\Document\MSH\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.0.1_35976daa9246a20df01dc89727961418d86acf4e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\IDE\Android\AndroidStudio\Document\MSH\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="D:\IDE\Android\AndroidStudio\Document\MSH\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.0.1_46c1ee63c213002932536d471fc25aa271edac12\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\IDE\Android\AndroidStudio\Document\MSH\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="D:\IDE\Android\AndroidStudio\Document\MSH\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_dad976508e55bb6ac5e959e446c70294df539b69\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\IDE\Android\AndroidStudio\Document\MSH\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\10.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="cf60a8cd2f896314e40b2f1a9788e91e228c3671">
+        <dex dex="D:\IDE\Android\AndroidStudio\Document\MSH\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-maps-10.0.0_2fcd88fea4dbb25c5f54c1e3510ae6b41a854daf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MSH\Desktop\PickLon\app\client\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="C:\Users\MSH\Desktop\PickLon\app\client\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.0.1_e79ded18c4e2d70a477cbc09286d7fb598c59cdf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\IDE\Android\AndroidStudio\Document\MSH\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="D:\IDE\Android\AndroidStudio\Document\MSH\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.0.1_e87764a3691c374fed1c058df73bcf80f0c16829\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MSH\.gradle\caches\modules-2\files-2.1\com.google.dagger\dagger\2.4\6b290a792253035c9fcc912d6a4d7efb3e850211\dagger-2.4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6b290a792253035c9fcc912d6a4d7efb3e850211">
+        <dex dex="C:\Users\MSH\Desktop\PickLon\app\client\app\build\intermediates\transforms\dex\debug\folders\1000\10\dagger-2.4_eaf2e0c67b8f8c6259758fde112ecabaa84ec8bf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MSH\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\adapter-rxjava\2.1.0\693eddc23e87ab13f9cf5001707ce8e7e1d1ff01\adapter-rxjava-2.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="693eddc23e87ab13f9cf5001707ce8e7e1d1ff01">
+        <dex dex="C:\Users\MSH\Desktop\PickLon\app\client\app\build\intermediates\transforms\dex\debug\folders\1000\10\adapter-rxjava-2.1.0_c8717d5f8276eaa4ce258d28051038d35f0c32bb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\IDE\Android\AndroidStudio\Document\MSH\app\build\intermediates\exploded-aar\com.jakewharton\butterknife\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="a07818a1ecabdb149998823429cce555af4b9cba">
+        <dex dex="D:\IDE\Android\AndroidStudio\Document\MSH\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.jakewharton-butterknife-8.4.0_12c069a8cf9fb53524969e1af1fcee1ef4ba5a26\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MSH\Desktop\PickLon\app\client\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\MSH\Desktop\PickLon\app\client\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.0.1_f2c4f2dc5546e772a1f63fdc035d9e7be0f42a20\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MSH\Desktop\PickLon\app\client\app\build\intermediates\exploded-aar\com.github.orhanobut\logger\1.12\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="ecb9f39f775f414b18c7c61b4f71345f2ae8f738">
+        <dex dex="C:\Users\MSH\Desktop\PickLon\app\client\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.github.orhanobut-logger-1.12_1e06f76abd632a7b8099490b3de4e2778a43f8a9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\IDE\Android\AndroidStudio\Document\MSH\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="D:\IDE\Android\AndroidStudio\Document\MSH\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_ed66738ec5b10a79b3f92165a05c83f9ada94e96\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\IDE\Android\AndroidStudio\Document\MSH\app\build\intermediates\exploded-aar\com.android.support\transition\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c1b6ab157e8e12cb08b9ee82bb5e3c5d22632eb3">
+        <dex dex="D:\IDE\Android\AndroidStudio\Document\MSH\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-transition-25.0.1_b1f13532ab33d0eed93f0acca23acb5322d9e07b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\IDE\Android\AndroidStudio\Document\MSH\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\10.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="985be85104f6d0c5c5e51e7b7e60d8883a98ac64">
+        <dex dex="D:\IDE\Android\AndroidStudio\Document\MSH\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tasks-10.0.0_70a5a162811b14f201ff5fff39c004f198427843\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MSH\Desktop\PickLon\app\client\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6a07bde97f5f961d2d17a0d6fe1d6418ac963c11">
+        <dex dex="C:\Users\MSH\Desktop\PickLon\app\client\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_9952384e2f73edc1beeb750ef4a13c05c37a2dd9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\IDE\Android\AndroidStudio\Document\MSH\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\IDE\Android\AndroidStudio\Document\MSH\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.0.1_e06990b0535155f8b7ad2e3e6315ac24f308a56c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\IDE\Android\AndroidStudio\Document\MSH\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="1f5e5193a34e325536f1f5647cd40dcdf9a3622f">
+        <dex dex="D:\IDE\Android\AndroidStudio\Document\MSH\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_58e60e580e3a371524d02a8a773a63c178fbf63a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MSH\Desktop\PickLon\app\client\app\build\intermediates\exploded-aar\com.koushikdutta.async\androidasync\2.1.9\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="60d0e28fe7ab6da6c03b54cd8ede502284d51a81">
+        <dex dex="C:\Users\MSH\Desktop\PickLon\app\client\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.koushikdutta.async-androidasync-2.1.9_b88cd29e433ed23afc412d048bbf7361c775a697\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MSH\Desktop\PickLon\app\client\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="C:\Users\MSH\Desktop\PickLon\app\client\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.0.1_7e46e5e8a32c15c1692a98056b32ee00f0f89ad7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MSH\Desktop\PickLon\app\client\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="C:\Users\MSH\Desktop\PickLon\app\client\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_ab3aaf97a4d71f9760a66ed552430a1db5ba7c1d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\IDE\Android\AndroidStudio\Document\MSH\app\build\intermediates\exploded-aar\com.koushikdutta.async\androidasync\2.1.9\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="60d0e28fe7ab6da6c03b54cd8ede502284d51a81">
+        <dex dex="D:\IDE\Android\AndroidStudio\Document\MSH\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.koushikdutta.async-androidasync-2.1.9_abd133d3176499feb5b1bbfca593e840da5eac94\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\IDE\Android\AndroidStudio\Document\MSH\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="D:\IDE\Android\AndroidStudio\Document\MSH\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_eff066a1847d25febc03692e82678df96be68989\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MSH\Desktop\PickLon\app\client\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="C:\Users\MSH\Desktop\PickLon\app\client\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_a3f01d4dc0ebcb1d832bdd719fd8b0adeced9237\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MSH\.gradle\caches\modules-2\files-2.1\io.reactivex\rxjava\1.1.8\f9dbae366a6a3d6b5041c5e8db0dcdfdc35c27b5\rxjava-1.1.8.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f9dbae366a6a3d6b5041c5e8db0dcdfdc35c27b5">
+        <dex dex="C:\Users\MSH\Desktop\PickLon\app\client\app\build\intermediates\transforms\dex\debug\folders\1000\10\rxjava-1.1.8_4f2f5541acdf7010647bff7c5ae6eb572763d36a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\IDE\Android\AndroidStudio\Document\MSH\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="D:\IDE\Android\AndroidStudio\Document\MSH\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_d8a8b66bbc14b1760c3c43c1574fd52e3e62eb16\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MSH\Desktop\PickLon\app\client\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="297d4bcf6ed4e747a1bf7d0d094a2d911a8d3a8e">
+        <dex dex="C:\Users\MSH\Desktop\PickLon\app\client\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-25.0.1_fb43b84abd42e6ab8d5fac7b0eb8e7fd7b20a10a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MSH\Desktop\PickLon\app\client\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="C:\Users\MSH\Desktop\PickLon\app\client\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.0.1_d6881e6a6abd0a239a0d70d08e08d784d3e00c34\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\IDE\Android\AndroidStudio\Document\MSH\app\build\intermediates\exploded-aar\com.github.techery\properratingbar\0.0.5\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="14024de882f2979e4dffed4857f7f39251bea246">
+        <dex dex="D:\IDE\Android\AndroidStudio\Document\MSH\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.github.techery-properratingbar-0.0.5_fbbf2b2a04252dd55ae59b582e68358774eb64ff\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MSH\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\converter-gson\2.1.0\aa557d71ead91cbf26e0c316a0f593d168303309\converter-gson-2.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="aa557d71ead91cbf26e0c316a0f593d168303309">
+        <dex dex="C:\Users\MSH\Desktop\PickLon\app\client\app\build\intermediates\transforms\dex\debug\folders\1000\10\converter-gson-2.1.0_8ba864560d643f67828b239d2eaa86e04b9c7907\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MSH\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\retrofit\2.1.0\2de7cd8b95b7021b1d597f049bcb422055119f2c\retrofit-2.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="2de7cd8b95b7021b1d597f049bcb422055119f2c">
+        <dex dex="C:\Users\MSH\Desktop\PickLon\app\client\app\build\intermediates\transforms\dex\debug\folders\1000\10\retrofit-2.1.0_55d2f348533c31a95ea5be0404913a70606ac76b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MSH\Desktop\PickLon\app\client\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="C:\Users\MSH\Desktop\PickLon\app\client\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_2c067b0bf5c73f3e49c4ce5bf90b4c7e7ea7cb76\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MSH\Desktop\PickLon\app\client\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="C:\Users\MSH\Desktop\PickLon\app\client\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.0.1_decaf5cd45f8f51d0bbae25b8c7f6cb373cf8dae\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MSH\Desktop\PickLon\app\client\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="C:\Users\MSH\Desktop\PickLon\app\client\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.0.1_ced822a05a00700a52807a87042f3752fbbd7b13\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\IDE\Android\AndroidStudio\Document\MSH\app\build\intermediates\exploded-aar\com.github.orhanobut\logger\1.12\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="ecb9f39f775f414b18c7c61b4f71345f2ae8f738">
+        <dex dex="D:\IDE\Android\AndroidStudio\Document\MSH\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.github.orhanobut-logger-1.12_e37d238e609e6062d2477e0126c3a4a86f1a846e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MSH\.gradle\caches\modules-2\files-2.1\com.nineoldandroids\library\2.4.0\e9b63380f3a242dbdbf103a2355ad7e43bad17cb\library-2.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="C:\Users\MSH\Desktop\PickLon\app\client\app\build\intermediates\transforms\dex\debug\folders\1000\10\library-2.4.0_49839870921a598025858044363d5d9c663862fc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MSH\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.4.1\c7c4f9e35c2fd5900da24f9872e3971801f08ce0\okhttp-3.4.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c7c4f9e35c2fd5900da24f9872e3971801f08ce0">
+        <dex dex="C:\Users\MSH\Desktop\PickLon\app\client\app\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-3.4.1_6ecf07e5c7f812ff10ff66023f867c55272788fd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MSH\Desktop\PickLon\app\client\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-places\10.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="813f70b551ce5206ad15dfe6e2f5b2d86e08a723">
+        <dex dex="C:\Users\MSH\Desktop\PickLon\app\client\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-places-10.0.0_780114fdc1e73de2db2f4e0bc9418e1742974b1e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MSH\Desktop\PickLon\app\client\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\10.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="75dbc3537bc912d077b3db2f5ac72d5b43644b2c">
+        <dex dex="C:\Users\MSH\Desktop\PickLon\app\client\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-10.0.0_77d1c78a9213fca4f73107009551dc1d719fc38e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\IDE\Android\AndroidStudio\Document\MSH\app\build\intermediates\exploded-aar\io.reactivex\rxandroid\1.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="5a2386ad9bfff580b206a7fe305cdccd00798159">
+        <dex dex="D:\IDE\Android\AndroidStudio\Document\MSH\app\build\intermediates\transforms\dex\debug\folders\1000\10\io.reactivex-rxandroid-1.2.1_a36fd6e1c0c9e667b08d87f885737843968929fa\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MSH\Desktop\PickLon\app\client\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="C:\Users\MSH\Desktop\PickLon\app\client\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.0.1_2e8ebd026513aa3b95c7aedfcd136e45fa01ef58\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MSH\Desktop\PickLon\app\client\app\build\intermediates\exploded-aar\com.github.techery\properratingbar\0.0.5\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="14024de882f2979e4dffed4857f7f39251bea246">
+        <dex dex="C:\Users\MSH\Desktop\PickLon\app\client\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.github.techery-properratingbar-0.0.5_dbb493e77af23307c4d4cf792b74e407652f0aed\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MSH\Desktop\PickLon\app\client\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="4e3d035078e023065db0502dde4c99a296268d74">
+        <dex dex="C:\Users\MSH\Desktop\PickLon\app\client\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_268158fcad1a11259c8331eb6a939352a9caf7cf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MSH\Desktop\PickLon\app\client\app\build\intermediates\exploded-aar\io.reactivex\rxandroid\1.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="5a2386ad9bfff580b206a7fe305cdccd00798159">
+        <dex dex="C:\Users\MSH\Desktop\PickLon\app\client\app\build\intermediates\transforms\dex\debug\folders\1000\10\io.reactivex-rxandroid-1.2.1_f36a680095648ca40dde8559a971e9ea0370be6f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MSH\Desktop\PickLon\app\client\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="C:\Users\MSH\Desktop\PickLon\app\client\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.0.1_b04d0bae29d40fd247700b7f87052ff8021021c9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\IDE\Android\AndroidStudio\Document\MSH\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\10.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="3347c3e7056fabc88bdbd8fdae65ddf2b674d977">
+        <dex dex="D:\IDE\Android\AndroidStudio\Document\MSH\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-10.0.0_5ac9d0acb0888b8487a27302c26e729c3ec1ed66\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\IDE\Android\AndroidStudio\Document\MSH\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="1108575c7dc7b7f5b378b3290ac90de81a9b8830">
+        <dex dex="D:\IDE\Android\AndroidStudio\Document\MSH\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-cardview-v7-25.0.1_8ba673db1d3ec12f41ea602651297d20dcb8e313\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MSH\Desktop\PickLon\app\client\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="C:\Users\MSH\Desktop\PickLon\app\client\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_7ed7821d3640f729e5ce3b3cdad2506ae8e4bdc8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\IDE\Android\AndroidStudio\Document\MSH\app\build\intermediates\exploded-aar\cn.lightsky.infiniteindicator\library\1.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="92d0cc0d0b5733d61df4fb05795919cf6423b0ff">
+        <dex dex="D:\IDE\Android\AndroidStudio\Document\MSH\app\build\intermediates\transforms\dex\debug\folders\1000\10\cn.lightsky.infiniteindicator-library-1.1.0_5a73387d03a31926d8a36a49a7993b71c584eabc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\IDE\Android\AndroidStudio\Document\MSH\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="ac319b5934ddc119c6dd0f87dd78700bb6261093">
+        <dex dex="D:\IDE\Android\AndroidStudio\Document\MSH\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_d6450cae450ce59024c08656a36ee00ca552333f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\IDE\Android\AndroidStudio\Document\MSH\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="297d4bcf6ed4e747a1bf7d0d094a2d911a8d3a8e">
+        <dex dex="D:\IDE\Android\AndroidStudio\Document\MSH\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-25.0.1_f55dcf040f1019db70eaf2d0829c0b089a21e378\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\IDE\Android\AndroidStudio\Document\MSH\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="D:\IDE\Android\AndroidStudio\Document\MSH\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.0.1_31a081306e2fd5bb6e21df832cc4b56a1221151f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MSH\Desktop\PickLon\app\client\app\build\intermediates\exploded-aar\com.daasuu\BubbleLayout\1.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="13d1746b726c099df925c9b7a25dc687034e677d">
+        <dex dex="C:\Users\MSH\Desktop\PickLon\app\client\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.daasuu-BubbleLayout-1.1.1_be0a93075816e8d98ffd5864b9322935932740af\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\IDE\Android\AndroidStudio\Document\MSH\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="D:\IDE\Android\AndroidStudio\Document\MSH\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_a05a4b009f883f1631f6b8b792a5949b12ee81fb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MSH\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.9.0\f824591a0016efbaeddb8300bee54832a1398cfa\okio-1.9.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
+        <dex dex="C:\Users\MSH\Desktop\PickLon\app\client\app\build\intermediates\transforms\dex\debug\folders\1000\10\okio-1.9.0_465e18ec46174b5b94912dda2a40395f160ec550\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MSH\Desktop\PickLon\app\client\app\build\intermediates\exploded-aar\cn.lightsky.infiniteindicator\library\1.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="92d0cc0d0b5733d61df4fb05795919cf6423b0ff">
+        <dex dex="C:\Users\MSH\Desktop\PickLon\app\client\app\build\intermediates\transforms\dex\debug\folders\1000\10\cn.lightsky.infiniteindicator-library-1.1.0_6819bcf29670812def2c2066ec51bdd798f41796\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\IDE\Android\AndroidStudio\Document\MSH\app\build\intermediates\exploded-aar\me.relex\circleindicator\1.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="4a6c347f01da9077fc9d7934974260d904354f77">
+        <dex dex="D:\IDE\Android\AndroidStudio\Document\MSH\app\build\intermediates\transforms\dex\debug\folders\1000\10\me.relex-circleindicator-1.2.1_50781263edaf96d8953fd39c68a599925e6bb85d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MSH\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.7\751f548c85fa49f330cecbb1875893f971b33c4e\gson-2.7.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="C:\Users\MSH\Desktop\PickLon\app\client\app\build\intermediates\transforms\dex\debug\folders\1000\10\gson-2.7_d7c674c06312c30cf3feddc6d54a02c18613f820\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MSH\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="C:\Users\MSH\Desktop\PickLon\app\client\app\build\intermediates\transforms\dex\debug\folders\1000\10\picasso-2.5.2_bf16b4b4e0c48ddbf374b61fae5a5032daf20d01\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\IDE\Android\AndroidStudio\Document\MSH\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-places\10.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="813f70b551ce5206ad15dfe6e2f5b2d86e08a723">
+        <dex dex="D:\IDE\Android\AndroidStudio\Document\MSH\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-places-10.0.0_c516af34e2dac3134298a08c9cf7f283f7965c7b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\IDE\Android\AndroidStudio\Document\MSH\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="D:\IDE\Android\AndroidStudio\Document\MSH\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.0.1_caafa7c766b7dd471fadd642cd237d81efb38e48\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MSH\Desktop\PickLon\app\client\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="C:\Users\MSH\Desktop\PickLon\app\client\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_bfc6bc68e1e106f29c7d9139b139eb8f1d999b4c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MSH\Desktop\PickLon\app\client\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\10.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="cf60a8cd2f896314e40b2f1a9788e91e228c3671">
+        <dex dex="C:\Users\MSH\Desktop\PickLon\app\client\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-maps-10.0.0_50d72718601621e7346fc9dd371cc82b99bbca68\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\IDE\Android\AndroidStudio\Document\MSH\app\build\intermediates\exploded-aar\com.android.support\design\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="3b236883e0df6002cabb01ce57d00a5b1e5de610">
+        <dex dex="D:\IDE\Android\AndroidStudio\Document\MSH\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-25.0.1_1fd8037ffe1487652d888cab5de7ca03617b200d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\IDE\Android\AndroidStudio\SDK\extras\android\m2repository\com\android\support\support-annotations\25.0.1\support-annotations-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="C:\Users\MSH\Desktop\PickLon\app\client\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.0.1_fb8b64ca554aab335fcaffbc6d08164b52fb9330\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MSH\Desktop\PickLon\app\client\app\build\intermediates\exploded-aar\com.android.support\design\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="3b236883e0df6002cabb01ce57d00a5b1e5de610">
+        <dex dex="C:\Users\MSH\Desktop\PickLon\app\client\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-25.0.1_e3bdb922dcb37c3e4b02c1595e47b81355c776c7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MSH\Desktop\PickLon\app\client\app\build\intermediates\exploded-aar\com.android.support\transition\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c1b6ab157e8e12cb08b9ee82bb5e3c5d22632eb3">
+        <dex dex="C:\Users\MSH\Desktop\PickLon\app\client\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-transition-25.0.1_d6d5104bfdcf930735e7d4117d8868ab814358eb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MSH\.gradle\caches\modules-2\files-2.1\com.jakewharton.picasso\picasso2-okhttp3-downloader\1.0.2\74a586d03a233d356290983d1ef23a64c1d122b2\picasso2-okhttp3-downloader-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="74a586d03a233d356290983d1ef23a64c1d122b2">
+        <dex dex="C:\Users\MSH\Desktop\PickLon\app\client\app\build\intermediates\transforms\dex\debug\folders\1000\10\picasso2-okhttp3-downloader-1.0.2_3704426dbfcd76c52ea00d535cf323d7ea014cd0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MSH\Desktop\PickLon\app\client\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\10.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="985be85104f6d0c5c5e51e7b7e60d8883a98ac64">
+        <dex dex="C:\Users\MSH\Desktop\PickLon\app\client\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tasks-10.0.0_51201fc3522e3b5130f447971588c3009b0a47e8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MSH\Desktop\PickLon\app\client\app\build\intermediates\exploded-aar\me.relex\circleindicator\1.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="4a6c347f01da9077fc9d7934974260d904354f77">
+        <dex dex="C:\Users\MSH\Desktop\PickLon\app\client\app\build\intermediates\transforms\dex\debug\folders\1000\10\me.relex-circleindicator-1.2.1_219a2e3701e6f6e967a1a105808cbf51bdafc3a0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MSH\Desktop\PickLon\app\client\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\10.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="3347c3e7056fabc88bdbd8fdae65ddf2b674d977">
+        <dex dex="C:\Users\MSH\Desktop\PickLon\app\client\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-10.0.0_e00a5249bdba91115df6bbff493f778effedbee5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MSH\Desktop\PickLon\app\client\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="C:\Users\MSH\Desktop\PickLon\app\client\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.0.1_3cc84d1e8f20119d599fb9e5f59ce5a32c33fde8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MSH\Desktop\PickLon\app\client\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="1108575c7dc7b7f5b378b3290ac90de81a9b8830">
+        <dex dex="C:\Users\MSH\Desktop\PickLon\app\client\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-cardview-v7-25.0.1_8b5b66c98cd1556d45173d94ed531080ed9f4694\classes.dex" />
+    </item>
+
+</items>

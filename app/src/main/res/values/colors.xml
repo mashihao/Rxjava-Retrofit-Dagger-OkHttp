@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#B92549</color>
+    <color name="colorPrimaryDark">#B92549</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="white">#FFFFFF</color>
+    <color name="transparent">#50000000</color>
+    <color name="transparent_pressed">#70000000</color>
+    <color name="full_transparent">#00000000</color>
+    <color name="light_red">#EBC1C9</color>
+    <color name="dark_red">#8B0000</color>
+    <color name="light_blue">#96CFED</color>
+    <color name="light_black">#494949</color>
+    <color name="black">#000000</color>
+    <color name="blue">#0053FF</color>
+    <color name="grey">#808080</color>
+    <color name="light_grey">#D3D3D3</color>
+    <color name="medium_red">#CB3757</color>
+    <color name="orange">#E0682C</color>
+    <color name="dark_orange">#D35B1F</color>
+    <color name="pink">#E12C71</color>
+    <color name="dark_pink">#D51E64</color>
+    <color name="fb_blue">#3B5999</color>
+    <color name="fb_dark_blue">#344E87</color>
+    <color name="twitter_blue">#55ACEF</color>
+    <color name="twitter_dark_blue">#3EA1ED</color>
+    <color name="green">#24D28A</color>
+    <color name="dark_green">#2DC988</color>
+    <color name="medium_grey">#BABABA</color>
+
+</resources>

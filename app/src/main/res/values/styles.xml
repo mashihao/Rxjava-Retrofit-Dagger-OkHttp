@@ -1,0 +1,51 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="RedVerticalLine">
+        <item name="android:layout_width">1dp</item>
+        <item name="android:layout_height">30dp</item>
+        <item name="android:background">@color/light_red</item>
+    </style>
+
+    <style name="Theme.EditAddess" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorControlNormal">@color/light_red</item>
+        <item name="colorControlActivated">@color/light_red</item>
+        <item name="colorControlHighlight">@color/light_red</item>
+    </style>
+
+    <style name="DividingLine">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">1dp</item>
+        <item name="android:background">@color/light_grey</item>
+    </style>
+
+    <!--<style name="TransparentTheme" parent="AppTheme">-->
+    <!--<item name="android:windowDrawsSystemBarBackgrounds">true</item>-->
+    <!--<item name="android:statusBarColor">@android:color/transparent</item>-->
+    <!--</style>-->
+
+    <style name="NonCapTextAppearance" parent="TextAppearance.Design.Tab">
+        <item name="textAllCaps">false</item>
+    </style>
+
+
+    <style name="OrderTabStyle" parent="Widget.Design.TabLayout">
+        <item name="tabMode">fixed</item>
+        <item name="tabIndicatorHeight">0dp</item>
+        <item name="tabBackground">@drawable/round_order_cornel_red</item>
+        <item name="tabTextColor">@color/white</item>
+        <item name="tabSelectedTextColor">@color/white</item>
+        <item name="tabTextAppearance">@style/NonCapTextAppearance</item>
+        <item name="tabGravity">fill</item>
+        <item name="tabMaxWidth">0dp</item>
+    </style>
+
+</resources>
