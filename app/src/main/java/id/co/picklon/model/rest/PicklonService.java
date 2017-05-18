@@ -17,7 +17,8 @@ import retrofit2.http.Query;
 import rx.Observable;
 
 public interface PicklonService {
-    String ENDPOINT = "http://ateam.ticp.io:8190/";
+    //主要地质
+    String ENDPOINT = ";
 
     @FormUrlEncoded
     @POST("1001")
