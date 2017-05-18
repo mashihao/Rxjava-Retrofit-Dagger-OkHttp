@@ -39,53 +39,5 @@ public interface PicklonService {
     @POST("2004")
     Observable<Response<Token>> login(@Field("d") String args);
 
-    @FormUrlEncoded
-    @POST("2005")
-    Observable<Response<Object>> resetPasword(@Field("d") String args);
-
-    @FormUrlEncoded
-    @POST("2006")
-    Observable<Response<Object>> changeMobile(@Query("tk") String token, @Field("d") String args);
-
-    @FormUrlEncoded
-    @POST("3002")
-    Observable<Response<Order>> reqNewOrder(@Query("tk") String token, @Field("d") String args);
-
-    @GET("3004")
-    Observable<Response<List<Order>>> getOrderList(@Query("tk") String token);
-
-    @GET("4001")
-    Observable<Response<Object>> getRegion(@Query("tk") String token);
-
-    @GET("4002")
-    Observable<Response<List<Address>>> getAddressList(@Query("tk") String token);
-
-    @FormUrlEncoded
-    @POST("4003")
-    Observable<Response<Object>> addAddress(@Query("tk") String token, @Field("d") String args);
-
-    @FormUrlEncoded
-    @POST("4004")
-    Observable<Response<Object>> editAddress(@Query("tk") String token, @Field("d") String args);
-
-    @FormUrlEncoded
-    @POST("4005")
-    Observable<Response<Object>> delAddress(@Query("tk") String token, @Field("d") String args);
-
-    @FormUrlEncoded
-    @POST("5001")
-    Observable<Response<List<Article>>> getRegulation(@Field("d") String args);
-
-    @GET("5002")
-    Observable<Response<List<Article>>> getTerms(@Query("tk") String token);
-
-    @GET("5003")
-    Observable<Response<List<Object>>> getFanPage(@Query("tk") String token);
-
-    @FormUrlEncoded
-    @POST("5004")
-    Observable<Response<Object>> becomePartner(@Query("tk") String token, @Field("d") String args);
-
-    @GET("5005")
-    Observable<Response<List<WashService>>> getOrderConfig(@Query("tk") String token);
+ 
 }
